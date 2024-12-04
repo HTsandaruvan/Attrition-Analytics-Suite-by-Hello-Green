@@ -6,4 +6,6 @@ A suitable data analysis tool that can be used is Microsoft Power BI. Power BI i
  
 Overall, data analytics tools like Microsoft Power BI can greatly contribute to effective decision making by providing actionable insights from data that drive business growth and success.
 
+<img src="./hellogreen.png" alt="home_page" width="50%"/>
+
 
